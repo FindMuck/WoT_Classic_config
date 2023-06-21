@@ -1,0 +1,38 @@
+{
+	"enabled": true,
+	"sequences": [
+		{
+			"name": "default",
+			"enabled": true,
+			"start": "1970-01-01T00:00:00",
+			"finish": "3000-01-01T00:00:01",
+			"priority": 1,
+			"order": "random",
+			"slides": [
+				{
+					"image": "https://i.pinimg.com/originals/6b/8d/00/6b8d00f18707cce4a31ae301a0858d97.png",
+					"localization": "XMLs/8.xml"
+				},
+				{
+					"image": "placeholder",
+					"localization": "placeholder"
+				}
+			]
+		},
+		{
+			"name": "priority_queue",
+			"enabled": false,
+			"start": "1970-01-01T00:00:00",
+			"finish": "3000-01-01T00:00:01",
+			"priority": 2,
+			"order": "random",
+			"views": 3,
+			"slides": [
+				{
+					"image": "placeholder",
+					"localization": "placeholder"
+				}
+			]
+		}
+	]
+}

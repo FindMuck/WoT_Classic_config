@@ -1,0 +1,66 @@
+{
+	"enabled": true,
+	"sequences": [
+		{
+			"name": "default",
+			"enabled": true,
+			"start": "2023-05-06T00:00:00",
+			"finish": "2050-01-01T00:00:00",
+			"priority": 1,
+			"order": "random",
+			"slides": [
+				{
+					"image": "https://i.pinimg.com/originals/6b/8d/00/6b8d00f18707cce4a31ae301a0858d97.png",
+					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/loading_01.xml"
+				},
+				{
+					"image": "https://i.pinimg.com/originals/6b/8d/00/6b8d00f18707cce4a31ae301a0858d97.png",
+					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/loading_02.xml"
+				},
+				{
+					"image": "https://i.pinimg.com/originals/6b/8d/00/6b8d00f18707cce4a31ae301a0858d97.png",
+					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/loading_03.xml"
+				},
+				{
+					"image": "https://i.pinimg.com/originals/6b/8d/00/6b8d00f18707cce4a31ae301a0858d97.png",
+					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/loading_04.xml"
+				},
+				{
+					"image": "https://i.pinimg.com/originals/6b/8d/00/6b8d00f18707cce4a31ae301a0858d97.png",
+					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/loading_05.xml"
+				},
+				{
+					"image": "https://i.pinimg.com/originals/6b/8d/00/6b8d00f18707cce4a31ae301a0858d97.png",
+					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/loading_06.xml"
+				},
+				{
+					"image": "https://i.pinimg.com/originals/6b/8d/00/6b8d00f18707cce4a31ae301a0858d97.png",
+					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/loading_07.xml"
+				},
+				{
+					"image": "https://i.pinimg.com/originals/6b/8d/00/6b8d00f18707cce4a31ae301a0858d97.png",
+					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/loading_08.xml"
+				},
+				{
+					"image": "https://i.pinimg.com/originals/6b/8d/00/6b8d00f18707cce4a31ae301a0858d97.png",
+					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/loading_09.xml"
+				}
+			]
+		},
+		{
+			"name": "bp11",
+			"enabled": true,
+			"start": "2023-05-06T00:00:00",
+			"finish": "2023-09-06T00:30:00",
+			"priority": 2,
+			"order": "random",
+			"views": 3,
+			"slides": [
+				{
+					"image": "https://i.pinimg.com/originals/6b/8d/00/6b8d00f18707cce4a31ae301a0858d97.png",
+					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/bp11_2.xml"
+				}
+			]
+		}
+	]
+}

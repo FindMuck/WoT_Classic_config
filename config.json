@@ -11,7 +11,7 @@
 			"slides": [
 				{
 					"image": "https://i.pinimg.com/originals/6b/8d/00/6b8d00f18707cce4a31ae301a0858d97.png",
-					"localization": "XMLs/8.xml"
+					"localization": "config.json"
 				},
 				{
 					"image": "placeholder",

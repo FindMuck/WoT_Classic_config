@@ -10,7 +10,7 @@
 			"order": "random",
 			"slides": [
 				{
-					"image": "https://i.pinimg.com/originals/6b/8d/00/6b8d00f18707cce4a31ae301a0858d97.png",
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/1.png",
 					"localization": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/XMLs/1.xml"
 				},
 				{

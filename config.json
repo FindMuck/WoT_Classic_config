@@ -11,6 +11,7 @@
 			"slides": [
 				{
 					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/1.png",
+					"vfx": "rain",
 					"localization": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/XMLs/1.xml"
 				}
 			]

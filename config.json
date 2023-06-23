@@ -10,7 +10,10 @@
 			"order": "random",
 			"slides": [
 				{
-					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/21d9879dc4620ead049016b818cc5637f1e8c0ae/slides/1.png"
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/1dd9872d7201959f033691383d3c1285a6bc07d6/slides/1.png"
+				},
+				{
+					"image": ""	
 				}
 			]
 		}

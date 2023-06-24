@@ -46,6 +46,35 @@
 					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/loading_09.xml"
 				}
 			]
+		},
+		{
+			"name": "bp11",
+			"enabled": true,
+			"start": "2023-05-06T00:00:00",
+			"finish": "2023-09-06T00:30:00",
+			"priority": 2,
+			"order": "random",
+			"views": 3,
+			"slides": [
+				{
+					"image": "https://tanki-media-content.lesta.ru/mt-files/img/bp11_2.png",
+					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/bp11_2.xml"
+				}
+			]
+		},
+		{
+			"name": "legend7",
+			"enabled": true,
+			"start": "2023-06-23T16:00:00",
+			"finish": "2023-07-25T16:00:00",
+			"priority": 1,
+			"order": "random",
+			"slides": [
+				{
+					"image": "https://tanki-media-content.lesta.ru/mt-files/img/legend7.png",
+					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/legend7.xml"
+				}
+			]
 		}
 	]
 }

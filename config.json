@@ -4,75 +4,79 @@
 		{
 			"name": "default",
 			"enabled": true,
-			"start": "2023-05-06T00:00:00",
-			"finish": "2050-01-01T00:00:00",
+			"start": "1970-01-01T00:00:00",
+			"finish": "3000-01-01T00:00:01",
 			"priority": 1,
 			"order": "random",
 			"slides": [
 				{
-					"image": "https://tanki-media-content.lesta.ru/mt-files/img/loading_01.png",
-					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/loading_01.xml"
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/b8f6efbf7fcece6680d497ef244aaea15bad4255/slides/1.png"
 				},
 				{
-					"image": "https://tanki-media-content.lesta.ru/mt-files/img/loading_02.png",
-					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/loading_02.xml"
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/b8f6efbf7fcece6680d497ef244aaea15bad4255/slides/2.png"
 				},
 				{
-					"image": "https://tanki-media-content.lesta.ru/mt-files/img/loading_03.png",
-					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/loading_03.xml"
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/b8f6efbf7fcece6680d497ef244aaea15bad4255/slides/3.png"
 				},
 				{
-					"image": "https://tanki-media-content.lesta.ru/mt-files/img/loading_04.png",
-					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/loading_04.xml"
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/b8f6efbf7fcece6680d497ef244aaea15bad4255/slides/4.png"
 				},
 				{
-					"image": "https://tanki-media-content.lesta.ru/mt-files/img/loading_05.png",
-					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/loading_05.xml"
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/b8f6efbf7fcece6680d497ef244aaea15bad4255/slides/5.png"
 				},
 				{
-					"image": "https://tanki-media-content.lesta.ru/mt-files/img/loading_06.png",
-					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/loading_06.xml"
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/b8f6efbf7fcece6680d497ef244aaea15bad4255/slides/6.png"
 				},
 				{
-					"image": "https://tanki-media-content.lesta.ru/mt-files/img/loading_07.png",
-					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/loading_07.xml"
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/b8f6efbf7fcece6680d497ef244aaea15bad4255/slides/7.png"
 				},
 				{
-					"image": "https://tanki-media-content.lesta.ru/mt-files/img/loading_08.png",
-					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/loading_08.xml"
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/b8f6efbf7fcece6680d497ef244aaea15bad4255/slides/8.png"
 				},
 				{
-					"image": "https://tanki-media-content.lesta.ru/mt-files/img/loading_09.png",
-					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/loading_09.xml"
-				}
-			]
-		},
-		{
-			"name": "bp11",
-			"enabled": true,
-			"start": "2023-05-06T00:00:00",
-			"finish": "2023-09-06T00:30:00",
-			"priority": 2,
-			"order": "random",
-			"views": 3,
-			"slides": [
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/b8f6efbf7fcece6680d497ef244aaea15bad4255/slides/9.png"
+				},
 				{
-					"image": "https://tanki-media-content.lesta.ru/mt-files/img/bp11_2.png",
-					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/bp11_2.xml"
-				}
-			]
-		},
-		{
-			"name": "legend7",
-			"enabled": true,
-			"start": "2023-06-23T16:00:00",
-			"finish": "2023-07-25T16:00:00",
-			"priority": 1,
-			"order": "random",
-			"slides": [
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/b8f6efbf7fcece6680d497ef244aaea15bad4255/slides/10.png"
+				},
 				{
-					"image": "https://tanki-media-content.lesta.ru/mt-files/img/legend7.png",
-					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/legend7.xml"
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/b8f6efbf7fcece6680d497ef244aaea15bad4255/slides/11.png"
+				},
+				{
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/b8f6efbf7fcece6680d497ef244aaea15bad4255/slides/12.png"
+				},
+				{
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/b8f6efbf7fcece6680d497ef244aaea15bad4255/slides/13.png"
+				},
+				{
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/b8f6efbf7fcece6680d497ef244aaea15bad4255/slides/14.png"
+				},
+				{
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/b8f6efbf7fcece6680d497ef244aaea15bad4255/slides/15.png"
+				},
+				{
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/b8f6efbf7fcece6680d497ef244aaea15bad4255/slides/16.png"
+				},
+				{
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/b8f6efbf7fcece6680d497ef244aaea15bad4255/slides/17.png"
+				},
+				{
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/b8f6efbf7fcece6680d497ef244aaea15bad4255/slides/18.png"
+				},
+				{
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/b8f6efbf7fcece6680d497ef244aaea15bad4255/slides/19.png"
+				},
+				{
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/b8f6efbf7fcece6680d497ef244aaea15bad4255/slides/20.png"
+				},
+				{
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/b8f6efbf7fcece6680d497ef244aaea15bad4255/slides/21.png"
+				},
+				{
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/b8f6efbf7fcece6680d497ef244aaea15bad4255/slides/22.png"
+				},
+				{
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/b8f6efbf7fcece6680d497ef244aaea15bad4255/slides/23.png"
 				}
 			]
 		}

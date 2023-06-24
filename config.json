@@ -10,54 +10,40 @@
 			"order": "random",
 			"slides": [
 				{
-					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/1.png",
-					"localization": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/XMLs/1.xml"
+					"image": "https://tanki-media-content.lesta.ru/mt-files/img/loading_01.png",
+					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/loading_01.xml"
 				},
 				{
-					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/2.png",
-					"localization": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/XMLs/1.xml"
+					"image": "https://tanki-media-content.lesta.ru/mt-files/img/loading_02.png",
+					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/loading_02.xml"
 				},
 				{
-					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/3.png",
-					"localization": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/XMLs/1.xml"
+					"image": "https://tanki-media-content.lesta.ru/mt-files/img/loading_03.png",
+					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/loading_03.xml"
 				},
 				{
-					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/4.png",
-					"localization": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/XMLs/1.xml"
+					"image": "https://tanki-media-content.lesta.ru/mt-files/img/loading_04.png",
+					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/loading_04.xml"
 				},
 				{
-					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/5.png",
-					"localization": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/XMLs/1.xml"
+					"image": "https://tanki-media-content.lesta.ru/mt-files/img/loading_05.png",
+					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/loading_05.xml"
 				},
 				{
-					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/6.png",
-					"localization": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/XMLs/1.xml"
+					"image": "https://tanki-media-content.lesta.ru/mt-files/img/loading_06.png",
+					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/loading_06.xml"
 				},
 				{
-					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/7.png",
-					"localization": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/XMLs/1.xml"
+					"image": "https://tanki-media-content.lesta.ru/mt-files/img/loading_07.png",
+					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/loading_07.xml"
 				},
 				{
-					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/8.png",
-					"localization": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/XMLs/1.xml"
+					"image": "https://tanki-media-content.lesta.ru/mt-files/img/loading_08.png",
+					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/loading_08.xml"
 				},
 				{
-					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/9.png",
-					"localization": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/XMLs/1.xml"
-				}
-			]
-		},
-		{
-			"name": "priority_queue",
-			"enabled": true,
-			"start": "1970-01-01T00:00:00",
-			"finish": "3000-01-01T00:00:01",
-			"priority": 2,
-			"order": "random",
-			"slides": [
-				{
-					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/23.png",
-					"localization": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/XMLs/1.xml"
+					"image": "https://tanki-media-content.lesta.ru/mt-files/img/loading_09.png",
+					"localization": "https://tanki-media-content.lesta.ru/mt-files/loc/loading_09.xml"
 				}
 			]
 		}

@@ -10,31 +10,40 @@
 			"order": "random",
 			"slides": [
 				{
-					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/1.png"
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/1.png",
+					"localization": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/XMLs/1.xml"
 				},
 				{
-					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/2.png"
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/2.png",
+					"localization": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/XMLs/1.xml"
 				},
 				{
-					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/3.png"
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/3.png",
+					"localization": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/XMLs/1.xml"
 				},
 				{
-					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/4.png"
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/4.png",
+					"localization": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/XMLs/1.xml"
 				},
 				{
-					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/5.png"
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/5.png",
+					"localization": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/XMLs/1.xml"
 				},
 				{
-					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/6.png"
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/6.png",
+					"localization": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/XMLs/1.xml"
 				},
 				{
-					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/7.png"
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/7.png",
+					"localization": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/XMLs/1.xml"
 				},
 				{
-					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/8.png"
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/8.png",
+					"localization": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/XMLs/1.xml"
 				},
 				{
-					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/9.png"
+					"image": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/slides/9.png",
+					"localization": "https://raw.githubusercontent.com/FindMuck/WoT_Classic_config/main/XMLs/1.xml"
 				}
 			]
 		}
